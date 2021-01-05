@@ -190,3 +190,7 @@ __pycache__
 # Simulation / Native
 eeprom.dat
 imgui.ini
+Marlin/_Bootscreen.h
+Marlin/_Statusscreen.h
+Marlin/Configuration_adv.h
+Marlin/Configuration.h
