@@ -124,6 +124,8 @@ tags
 
 # Workaround for Deviot+platformio quirks
 Marlin/lib
+Marlin/CR-10
+Marlin/KosselXL
 Marlin/platformio.ini
 Marlin/*/platformio.ini
 Marlin/*/*/platformio.ini
@@ -144,6 +146,10 @@ Marlin/*/readme.txt
 Marlin/*/*/readme.txt
 Marlin/*/*/*/readme.txt
 Marlin/*/*/*/*/readme.txt
+Marlin/_Bootscreen.h
+Marlin/_Statusscreen.h
+Marlin/Configuration_adv.h
+Marlin/Configuration.h
 
 # Secure Credentials
 Configuration_Secure.h
@@ -190,7 +196,4 @@ __pycache__
 # Simulation / Native
 eeprom.dat
 imgui.ini
-Marlin/_Bootscreen.h
-Marlin/_Statusscreen.h
-Marlin/Configuration_adv.h
-Marlin/Configuration.h
+
